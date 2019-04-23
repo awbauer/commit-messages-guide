@@ -127,7 +127,7 @@ incorrectly.
 ```
 
 ```
-# Good
+# Bad
 Serialize and deserialize credits to json in Cart
 
 Convert the Credit instances to dict for two main reasons:
